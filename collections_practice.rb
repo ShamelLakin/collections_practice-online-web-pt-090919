@@ -23,4 +23,6 @@ def swap_elements(num)
 end
 
 def reverse_array(array)
+  array.reverse do ||
+  end
 end
