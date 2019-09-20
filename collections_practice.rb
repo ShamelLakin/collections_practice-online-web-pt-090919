@@ -46,5 +46,6 @@ def sum_array(array)
 end 
 
 def add_s(array)
-  array.collect do ||
+  array.collect do |w|
+  end
 end
