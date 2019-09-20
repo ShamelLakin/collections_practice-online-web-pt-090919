@@ -48,8 +48,8 @@ end
 def add_s(array)
   array.collect do |w|
     if array[1] == w 
-      puts  
+      puts  w
     else 
-      puts w + s
+      puts w + "s"
   end
 end
